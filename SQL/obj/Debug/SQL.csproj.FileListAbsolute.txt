@@ -1,0 +1,6 @@
+D:\c#\Database_Inroduce\SQL\obj\Debug\SQL.csproj.AssemblyReference.cache
+D:\c#\Database_Inroduce\SQL\obj\Debug\SQL.csproj.SuggestedBindingRedirects.cache
+D:\c#\Database_Inroduce\SQL\obj\Debug\SQL.Form1.resources
+D:\c#\Database_Inroduce\SQL\obj\Debug\SQL.Properties.Resources.resources
+D:\c#\Database_Inroduce\SQL\obj\Debug\SQL.csproj.GenerateResource.cache
+D:\c#\Database_Inroduce\SQL\obj\Debug\SQL.csproj.CoreCompileInputs.cache

@@ -1,0 +1,11 @@
+D:\c#\Database_Inroduce\Database_Inroduce\bin\Debug\Database_Inroduce.exe.config
+D:\c#\Database_Inroduce\Database_Inroduce\bin\Debug\Database_Inroduce.exe
+D:\c#\Database_Inroduce\Database_Inroduce\bin\Debug\Database_Inroduce.pdb
+D:\c#\Database_Inroduce\Database_Inroduce\obj\Debug\Database_Inroduce.csproj.AssemblyReference.cache
+D:\c#\Database_Inroduce\Database_Inroduce\obj\Debug\Database_Inroduce.csproj.SuggestedBindingRedirects.cache
+D:\c#\Database_Inroduce\Database_Inroduce\obj\Debug\Database_Inroduce.Form1.resources
+D:\c#\Database_Inroduce\Database_Inroduce\obj\Debug\Database_Inroduce.Properties.Resources.resources
+D:\c#\Database_Inroduce\Database_Inroduce\obj\Debug\Database_Inroduce.csproj.GenerateResource.cache
+D:\c#\Database_Inroduce\Database_Inroduce\obj\Debug\Database_Inroduce.csproj.CoreCompileInputs.cache
+D:\c#\Database_Inroduce\Database_Inroduce\obj\Debug\Database_Inroduce.exe
+D:\c#\Database_Inroduce\Database_Inroduce\obj\Debug\Database_Inroduce.pdb
